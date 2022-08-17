@@ -1,0 +1,26 @@
+
+.Exhibit{
+    float: left;
+    margin: 0.5vw;
+    padding: 0vw 12vw 0vw 12vw;
+    text-align: center;
+    color: #fff;
+    background-color: #000;
+    border: 0.25vw solid #005266;
+}
+
+.ExhibitHeading {
+    font-weight: bold;
+    font-size: 1.95vw;
+}
+
+.ExhibitContent {
+    margin: 0.5vw;
+    padding: 1vw 1vw 1vw 1vw;
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.75vw;
+    color: #fff;
+    background-color: #000;
+    border: 0.25vw solid #005266;
+}
